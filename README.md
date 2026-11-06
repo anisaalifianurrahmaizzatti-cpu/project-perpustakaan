@@ -63,6 +63,8 @@ project_perpustakaan/
 
 ### Tambah Buku
 ![Tambah Buku](screenshots/tambah_buku.png)
+### Edit Buku
+![Edit Buku](screenshots/edit_buku.png)
 
 ## Author
 
