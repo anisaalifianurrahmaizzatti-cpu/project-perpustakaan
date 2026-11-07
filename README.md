@@ -66,6 +66,9 @@ project_perpustakaan/
 ### Edit Buku
 ![Edit Buku](screenshots/edit_buku.png)
 
+## Video Demo
+
+Tonton video demo aplikasi di YouTube: [Klik di sini](https://youtu.be/F54UK339wCU)
 ## Author
 
 Dibuat oleh **Anisa Alifia Nur Rahma Izzatti**
